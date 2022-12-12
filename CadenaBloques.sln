@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadenaBloques", "CadenaBloques.csproj", "{485EE56C-C3AC-46D2-82B2-D78369513605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485EE56C-C3AC-46D2-82B2-D78369513605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485EE56C-C3AC-46D2-82B2-D78369513605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485EE56C-C3AC-46D2-82B2-D78369513605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485EE56C-C3AC-46D2-82B2-D78369513605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33178372-1F56-4896-A329-EC65075A3275}
+	EndGlobalSection
+EndGlobal
